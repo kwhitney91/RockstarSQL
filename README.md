@@ -7,8 +7,11 @@ My role is to help launch the data strategy for their new online video rental se
 Which movies contributed the most and least to revenue gain?
 
 What was the average rental duration for all videos?
+
 What are the demographics of Rockbuster customers?
+
 Where are the customers with the high livetime value based?
+
 Do sales vary by geographical region?
 
 # Context
