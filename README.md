@@ -23,6 +23,7 @@ The set includes information about Rockbusters film inventory, customers and pay
 Add Data Set Link Here!
 
 #Final Analysis:
+
 SQL queries addressing the management’s questions.
 Visualizations in Tableau Public.
 A narrative story combining data insights with business strategies.
