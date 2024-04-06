@@ -1,0 +1,26 @@
+I approached this query knowing I needed to join the customer table, where the customer_ids were stored, out to the country table, which had the countries stored. 
+Using the ERD I created  I was able to determine that it would require linking the customer, address, city and country tables. 
+The first step was to make an alias for customer id that shows it as country count which is the end product that we want. 
+I then used an INNER JOIN because I was looking to link specific categories within each table to one another. 
+After linking through to the country, I then had to order by country count and limit it to ten to get the top 10.
+
+Step 2
+SELECT D.country, C.city,
+COUNT(customer_id) AS customer_count
+FROM customer A
+INNER JOIN address B ON A.address_id = B.address_id
+INNER JOIN city C ON B.city_id = C.city_id
+INNER JOIN country D on C.country_id = D.country_id
+
+WHERE D.country IN (SELECT D.country
+FROM customer A
+INNER JOIN address B ON A.address_id = B.address_id
+INNER JOIN city C ON B.city_id = C.city_id
+INNER JOIN country D on C.country_id = D.country_id
+GROUP BY D.country
+ORDER BY COUNT (A.customer_id) DESC
+LIMIT 10)
+
+GROUP BY C.city, D.country
+ORDER BY customer_count DESC
+LIMIT 10
