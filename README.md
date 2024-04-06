@@ -23,16 +23,14 @@ The set includes information about Rockbusters film inventory, customers and pay
 Add Data Set Link Here!
 
 #Final Analysis- A narrative story combining data insights with buisness stratigies
+
 [Final Observations](https://docs.google.com/presentation/d/1EEQKyQ62TvMfREKMP_WkNnnmRkNKa7FjT184IJBNnug/edit#slide=id.p) 
 
 [Link to visualizations in Tableau Public](https://public.tableau.com/app/profile/ken.whitney/viz/RockbusterLLCGraphs/Sheet6)
 
 
 SQL queries addressing the management’s questions.
-Visualizations in Tableau Public.
-A narrative story combining data insights with business strategies.
 
-Add link for visualizations here!
 
-Final Project Link!
+
 
