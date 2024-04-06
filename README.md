@@ -29,7 +29,7 @@ The set includes information about Rockbusters film inventory, customers and pay
 [Link to visualizations in Tableau Public](https://public.tableau.com/app/profile/ken.whitney/viz/RockbusterLLCGraphs/Sheet6)
 
 
-SQL queries addressing the management’s questions.
+
 
 
 
