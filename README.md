@@ -22,7 +22,8 @@ The set includes information about Rockbusters film inventory, customers and pay
 
 Add Data Set Link Here!
 
-#Final Analysis:
+#Final Analysis: [Final Obervations](https://docs.google.com/presentation/d/1EEQKyQ62TvMfREKMP_WkNnnmRkNKa7FjT184IJBNnug/edit#slide=id.p) 
+
 
 SQL queries addressing the management’s questions.
 Visualizations in Tableau Public.
