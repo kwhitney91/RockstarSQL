@@ -20,9 +20,9 @@ This project uses SQL for data analysis to answer the key questions above and he
 # Data Set 
 The set includes information about Rockbusters film inventory, customers and payments. The structure reflects buisness scenarios and relationships between data tables.
 
-Add Data Set Link Here!
 
-#Final Analysis- A narrative story combining data insights with buisness stratigies
+
+# Final Analysis- A narrative story combining data insights with buisness stratigies
 
 [Final Observations](https://docs.google.com/presentation/d/1EEQKyQ62TvMfREKMP_WkNnnmRkNKa7FjT184IJBNnug/edit#slide=id.p) 
 
