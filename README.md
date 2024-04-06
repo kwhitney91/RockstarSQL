@@ -17,8 +17,11 @@ Do sales vary by geographical region?
 # Context
 This project uses SQL for data analysis to answer the key questions above and help with the upcoming oline service transistion
 
-# Data Set 
-The set includes information about Rockbusters film inventory, customers and payments. The structure reflects buisness scenarios and relationships between data tables.
+# Data & Tools
+
+Rockbuster relational database management system and Postgre SQL was used for the analysis purpose. The data set includes information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
+
+
 
 
 
