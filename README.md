@@ -1,4 +1,4 @@
-# RockstarSQL
+# RockbusterSQL
 I am looking at RockBuster Stelth LLC data to answer key questions for their business strategy. Below I will identify top and bottom-performing movies, analyze rental durations, map out customer geography, pinpoint high-value customer locations, and compare sales across regions using SQL code.
 #Introduction
 For this project I have been hired as a data analyst in RockStart Stelths LLC Buisness Intelligence department. 
